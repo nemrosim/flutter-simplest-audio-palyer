@@ -1,6 +1,8 @@
 # musicplayerapp
 
 A new Flutter application.
+# Gif
+![](mp3-gif.gif)
 
 ## Getting Started
 
